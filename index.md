@@ -1,5 +1,5 @@
 ## Liam Brocklebank
 
-### <About Me>
-### <Experince>
-### <Education>
+### About Me
+### Experince
+### Education
